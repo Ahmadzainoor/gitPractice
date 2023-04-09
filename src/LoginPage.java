@@ -7,7 +7,9 @@ public class LoginPage {
         String userName= "Noor";
         String Password= "pass123";
 
-        System.out.println("userName is" +UserName + "Password is" + passord);
+        System.out.println("userName is" +userName + "Password is" + password);
+        System.out.println("this is Arshad chanes");
+
 
     }
 }
